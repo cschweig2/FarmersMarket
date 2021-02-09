@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Avery's Organics Landing Page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Component Diagram
+
+[![Farmers-Market-Component-Diagram.jpg](https://i.postimg.cc/2jF3Rvnt/Farmers-Market-Component-Diagram.jpg)](https://postimg.cc/PNJd1C3b)
+
+## Technologies Used
+
+VS Code <br />
+HTML <br />
+CSS<br />
+JavaScript<br />
+React
+
+## Known Bugs
+
+None.
 
 ## Available Scripts
 
@@ -68,3 +84,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Legal
+
+*This software is licensed under the MIT license.*
+
+Copyright (c) 2020 **Chelsea Becker, Joseph Giunta**
