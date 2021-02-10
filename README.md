@@ -1,5 +1,11 @@
 # Avery's Organics Landing Page
 
+### Last updated: 2.9.2021
+
+## Description
+
+Avery's Organics is a mid-sized farm in Northern Oregon that grows organic produce and sells it at farmers markets throughout town. This application displays the farmers market they are at on any given day, as well as seasonal produce available.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Component Diagram
